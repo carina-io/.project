@@ -26,7 +26,7 @@ repositories:
 
 website: "https://carina-io.github.io/"
 
-artwork: "https://landscape.cncf.io/logos/carina.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/carina"
 
 adopters:
   path: "https://github.com/carina-io/carina/blob/main/ADOPTERS.md"
